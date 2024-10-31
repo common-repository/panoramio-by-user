@@ -1,0 +1,29 @@
+.PbU_galleryImageBox {
+	text-align: center;
+	display: block;
+	float: left;
+}
+
+.PbU_galleryImage img {
+	border: solid 1px #aaa;
+	padding: 2px;
+	
+}
+
+.PbU_galleryCopyright {
+	clear: both;
+}
+
+.PbU_randomPictureBox {
+	text-align: center;
+}
+
+.PbU_randomPicture img {
+	border: solid 1px #aaa;
+	padding: 2px;
+	
+}
+
+.PbU_randomPictureCopyright {
+	font-size: 75%;
+}
